@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/raicg">
-  <img height="230em" src="https://github-readme-stats-alpha-three-20.vercel.app/api?username=raicg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="230em" src="https://github-readme-stats-alpha-three-20.vercel.app/api/top-langs/?username=raicg&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats-alpha-three-20.vercel.app/api?username=raicg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-alpha-three-20.vercel.app/api/top-langs/?username=raicg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   
