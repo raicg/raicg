@@ -9,7 +9,7 @@
   
   
 ## Holopin Badges
-[![@raicg's Holopin board](https://holopin.io/api/user/board?user=raicg2)](https://holopin.io/@raicg2)
+[![@raicg's Holopin board](https://holopin.io/api/user/board?user=raicg2)](https://github.com/raicg)
 
 ### You can find me in:
 
